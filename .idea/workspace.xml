@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd24dcbf-4441-45f5-b53d-d0e2db1dc4e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Neo4j_Tutorials" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Movies_SQL/ddl.sql" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="251ZU8eL0ZxkZ3e1bN6kyzaTcXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/" value="MySQL" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="kea_DAT21I_Tech1_2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kea_DAT21I_Tech1_2022" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd24dcbf-4441-45f5-b53d-d0e2db1dc4e3" name="Changes" comment="" />
+      <created>1644696566587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644696566587</updated>
+      <workItem from="1644696569923" duration="2196000" />
+      <workItem from="1644703880952" duration="647000" />
+      <workItem from="1644704543926" duration="180000" />
+      <workItem from="1644704748163" duration="311000" />
+      <workItem from="1644705108782" duration="214000" />
+      <workItem from="1644705391614" duration="1358000" />
+      <workItem from="1644707840984" duration="630000" />
+      <workItem from="1644742842730" duration="2264000" />
+      <workItem from="1644754558854" duration="636000" />
+      <workItem from="1644828669544" duration="974000" />
+      <workItem from="1644842350020" duration="442000" />
+      <workItem from="1645018004729" duration="4000" />
+      <workItem from="1645195388667" duration="183000" />
+      <workItem from="1645441242453" duration="6401000" />
+      <workItem from="1645451888799" duration="1594000" />
+      <workItem from="1645453713589" duration="238000" />
+      <workItem from="1645479286128" duration="610000" />
+      <workItem from="1645479933111" duration="176000" />
+      <workItem from="1645532934036" duration="3745000" />
+      <workItem from="1645537307896" duration="1537000" />
+      <workItem from="1645556836224" duration="1377000" />
+      <workItem from="1646379815025" duration="8229000" />
+      <workItem from="1646486896609" duration="54000" />
+      <workItem from="1646740094901" duration="1615000" />
+      <workItem from="1646744185921" duration="275000" />
+      <workItem from="1646820869599" duration="11708000" />
+      <workItem from="1646856381547" duration="2195000" />
+      <workItem from="1646905941264" duration="3097000" />
+      <workItem from="1646939618376" duration="5428000" />
+    </task>
+    <task id="LOCAL-00001" summary="FIRST COMMIT">
+      <created>1646943520171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646943520171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIRST COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
+  </component>
+</project>
