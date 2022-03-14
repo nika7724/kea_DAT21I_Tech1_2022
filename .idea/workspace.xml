@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd24dcbf-4441-45f5-b53d-d0e2db1dc4e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Neo4j_Tutorials" beforeDir="false" />
+    <list default="true" id="bd24dcbf-4441-45f5-b53d-d0e2db1dc4e3" name="Changes" comment="FIRST COMMIT">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/30b6ccfc-0aaf-4646-803b-89db83278dc7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/30b6ccfc-0aaf-4646-803b-89db83278dc7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4j_exercise" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +101,8 @@
       <workItem from="1646856381547" duration="2195000" />
       <workItem from="1646905941264" duration="3097000" />
       <workItem from="1646939618376" duration="5428000" />
+      <workItem from="1647286462895" duration="42000" />
+      <workItem from="1647286904174" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="FIRST COMMIT">
       <created>1646943520171</created>
